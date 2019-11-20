@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
-title: Patrick Brendel
-description: Journalist in the Cayman Islands
+title: Offshore Weekly
+description: Just a demo
 plugins: 
   - jekyll-seo-tag
   - jekyll-sitemap
