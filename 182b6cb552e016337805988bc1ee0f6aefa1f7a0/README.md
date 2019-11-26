@@ -1,6 +1,3 @@
-## Offshore Weekly<br>
-*Vol 0, Issue 0*
-
 ### Beneficial ownership: From ‘no way’ to ‘OK’
 
 This week the Cayman Islands government announced it would make public the true owners of companies incorporated in the islands, as soon as European Union countries establish their own public registers. The anticipated date for legislation is 2022.
