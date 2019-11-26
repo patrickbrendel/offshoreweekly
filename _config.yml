@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Offshore Weekly
-description: Just a demo
+description: Vol 0, Issue 0 (JUST A DEMO)
 plugins: 
   - jekyll-seo-tag
   - jekyll-sitemap
