@@ -10,7 +10,7 @@ However, a senior partner in a small Cayman law firm said that Cayman should fig
 
 “We cannot continue to surrender at every point. Cayman’s adversaries, including in the UK and Europe, will never be satisfied as long as our financial services industry continues to exist,” the senior partner said.
 
-#### Pressure and positioning
+##### Pressure and positioning
 
 Back in May 2016, the government’s line of the sand could hardly be drawn any more clearly. Premier Alden McLaughlin announced that Cayman would not participate in a beneficial ownership standard unless it was adopted by the United States.
 
@@ -36,7 +36,7 @@ During a meeting held in Grand Cayman in June of this year, leaders from the Fal
 
 About the same time, the UK Crown Dependencies announced their commitment to public registers in line with developments in the EU, while Gibraltar expressed its intent to introduce a public register before the end of the year.
 
-#### Resistance, repercussions
+##### Resistance, repercussions
 
 A high-ranking Cayman government official said they negotiated with other territories for months while arriving at their current position. Other territories argue that their constitutional relationship with the UK prevented them from committing to public registers at this time. For example, the British Virgin Islands is pursuing a legal challenge to the beneficial ownership provision passed by the UK Parliament.
 
