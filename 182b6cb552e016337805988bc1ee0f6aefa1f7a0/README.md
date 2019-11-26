@@ -1,5 +1,4 @@
-## Offshore Weekly
-
+## Offshore Weekly<br>
 *Vol 0, Issue 0*
 
 ### Beneficial ownership: From ‘no way’ to ‘OK’
