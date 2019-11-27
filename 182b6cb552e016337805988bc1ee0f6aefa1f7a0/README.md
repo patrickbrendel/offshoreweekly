@@ -149,18 +149,17 @@ The Premier and Opposition Leader sent off their joint letter to the UK requesti
 
 ### Week in review
 
-+ The Cayman Islands was roped into the ongoing US President Donald Trump/impeachment/Ukraine/Joe Biden scandal, after it was reported that an investment firm linked to Hunter Biden (the son of former US Vice President Joe Biden) received more than $130 million in US government ‘bailout’ loans and routed profits through a Cayman-based subsidiary.
++ The Cayman Islands was roped into the ongoing US President Donald Trump/impeachment/Ukraine/Joe Biden scandal, after it was reported that an investment firm linked to **Hunter Biden** (the son of former US Vice President Joe Biden) received more than $130 million in US government ‘bailout’ loans and routed profits through a Cayman-based subsidiary.
 
-+ The Anti Money Laundering service portfolio of Estera Law (Cayman), formerly U Law Limited, will be consolidated into Estera Trust (Cayman) Limited. This follows the July announcement that Inflexion Private Equity will acquire Estera, and then merge Esteria into Inflexion’s existing portfolio company Ocorian. The combined business will have offices in 18 jurisdictions, have more than 1,250 employees, and serve more than 8,000 clients.
++ The Anti Money Laundering service portfolio of Estera Law (Cayman), formerly U Law Limited, will be consolidated into **Estera Trust (Cayman) Limited**. This follows the July announcement that **Inflexion Private Equity** will acquire Estera, and then merge Esteria into Inflexion’s existing portfolio company **Ocorian**. The combined business will have offices in 18 jurisdictions, have more than 1,250 employees, and serve more than 8,000 clients.
 
-+ Florida-based bank Amerant Bancorp Inc. announced the completion of its acquisition of Cayman-based Mercantil Bank and Trust Limited (Cayman) from Mercantil Holding Financiero
-Internacional (Mercantil). The Cayman bank, which has about US$195 million in assets, has been rebranded ‘Elant Bank and Trust Ltd.’. Amerant previously managed the Cayman bank on behalf of Mercantil for about 30 years under service agreements.
++ Florida-based bank **Amerant Bancorp Inc.** announced the completion of its acquisition of Cayman-based **Mercantil Bank and Trust Limited (Cayman)** from Mercantil Holding Financiero Internacional (Mercantil). The Cayman bank, which has about US$195 million in assets, has been rebranded ‘Elant Bank and Trust Ltd.’. Amerant previously managed the Cayman bank on behalf of Mercantil for about 30 years under service agreements.
 
-+ Cayman was the busiest offshore jurisdiction for mergers and acquisitions during the first half of 2019, accounting for 38% of all M&A transactions and 42% of total deal value, according to law firm Appleby’s Offshore-i report. In total, Cayman recorded 570 deals worth $50 billion. Across the offshore region, there were 1,514 transactions for a total value of $120.4 billion.
++ Cayman was the busiest offshore jurisdiction for mergers and acquisitions during the first half of 2019, accounting for 38% of all M&A transactions and 42% of total deal value, according to law firm **Appleby’s Offshore-i report**. In total, Cayman recorded 570 deals worth $50 billion. Across the offshore region, there were 1,514 transactions for a total value of $120.4 billion.
 
-+ Cayman Enterprise City snagged six honors in the Global Free Zones of the Year Awards, put on by the *Financial Times’ fDi Magazine*. Competing against 85 free zones across the globe, CEC won awards for expansions, facilities upgrades, red tape reduction, skills development, diversity initiatives and development of technology.
++ **Cayman Enterprise City** snagged six honors in the Global Free Zones of the Year Awards, put on by the *Financial Times’ fDi Magazine*. Competing against 85 free zones across the globe, CEC won awards for expansions, facilities upgrades, red tape reduction, skills development, diversity initiatives and development of technology.
 
-+ Caribbean Airlines, the national airline of Trinidad and Tabago, is reporting a year-on-year profit of 34 percent from January to September 2019. According to unaudited summary financial results released by the regional carrier, Caribbean Airlines posted earnings of about US$18 million, before interest and taxes.
++ **Caribbean Airlines**, the national airline of Trinidad and Tabago, is reporting a year-on-year profit of 34 percent from January to September 2019. According to unaudited summary financial results released by the regional carrier, Caribbean Airlines posted earnings of about US$18 million, before interest and taxes.
 
 <p align="center">***</p>
 
