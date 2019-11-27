@@ -83,7 +83,7 @@ Other companies supporting the venture with their stablecoins are Binance with B
 
 In addition, Burt said, “On the open financial ecosystem front we have the support of Celsius Network, who offer lending services and pay interest on deposits; SALT, the first digital asset lending company and institutional custodian: MAPay a healthcare payments provider; Sablier, a payment solution provider; and Stablehouse, a stablecoin exchange provider.
 
-He also mentioned ConsenSys, whose Codefi payments tool would “make it easy for governments and merchants to accept digital payments.”.
+He also mentioned ConsenSys, whose Codefi payments tool would “make it easy for governments and merchants to accept digital payments”.
 
 ***
 
