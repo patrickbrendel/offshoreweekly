@@ -147,6 +147,23 @@ The Premier and Opposition Leader sent off their joint letter to the UK requesti
 
 ***
 
+### Week in review
+
++ The Cayman Islands was roped into the ongoing US President Donald Trump/impeachment/Ukraine/Joe Biden scandal, after it was reported that an investment firm linked to Hunter Biden (the son of former US Vice President Joe Biden) received more than $130 million in US government ‘bailout’ loans and routed profits through a Cayman-based subsidiary.
+
++ The Anti Money Laundering service portfolio of Estera Law (Cayman), formerly U Law Limited, will be consolidated into Estera Trust (Cayman) Limited. This follows the July announcement that Inflexion Private Equity will acquire Estera, and then merge Esteria into Inflexion’s existing portfolio company Ocorian. The combined business will have offices in 18 jurisdictions, have more than 1,250 employees, and serve more than 8,000 clients.
+
++ Florida-based bank Amerant Bancorp Inc. announced the completion of its acquisition of Cayman-based Mercantil Bank and Trust Limited (Cayman) from Mercantil Holding Financiero
+Internacional (Mercantil). The Cayman bank, which has about US$195 million in assets, has been rebranded ‘Elant Bank and Trust Ltd.’. Amerant previously managed the Cayman bank on behalf of Mercantil for about 30 years under service agreements.
+
++ Cayman was the busiest offshore jurisdiction for mergers and acquisitions during the first half of 2019, accounting for 38% of all M&A transactions and 42% of total deal value, according to law firm Appleby’s Offshore-i report. In total, Cayman recorded 570 deals worth $50 billion. Across the offshore region, there were 1,514 transactions for a total value of $120.4 billion.
+
++ Cayman Enterprise City snagged six honors in the Global Free Zones of the Year Awards, put on by the *Financial Times’ fDi Magazine*. Competing against 85 free zones across the globe, CEC won awards for expansions, facilities upgrades, red tape reduction, skills development, diversity initiatives and development of technology.
+
++ Caribbean Airlines, the national airline of Trinidad and Tabago, is reporting a year-on-year profit of 34 percent from January to September 2019. According to unaudited summary financial results released by the regional carrier, Caribbean Airlines posted earnings of about US$18 million, before interest and taxes.
+
+***
+
 ### Movers and Shakers
 
 **Jane Ebanks**, a Caymanian attorney, has completed her legal training with Walkers and was called to the Cayman Islands Bar on Nov. 13. She’ll be taking a place as an associate in Walkers’ Insolvency & Dispute Resolution Group.
@@ -155,7 +172,7 @@ The Premier and Opposition Leader sent off their joint letter to the UK requesti
 
 **John Eden** will become managing director of Strategic Risk Solutions in early 2020. He was formerly managing director and executive vice president of Willis Towers Watson Management (Cayman). He was at Willis for 28 years and has 22 years of experience in Cayman’s captive insurance market.
 
-**Jim Alberts** is the leading accounting and consulting firm Crowe’s new restructuring and insolvency practice in Cayman. The UK-licensed insolvency practitioner has worked for two local accounting firms beginning in 2009. The growing Crowe Cayman firm has moved to a new office at 94 Solaris Avenue in Camana Bay.
+**Jim Alberts** is leading the new restructuring and insolvency practice for accounting and consulting firm Crowe Cayman. The UK-licensed insolvency practitioner has worked for two local accounting firms beginning in 2009. The growing Crowe Cayman firm has moved to a new office at 94 Solaris Avenue in Camana Bay.
 
 **Tom Jackson** announced his retirement from Cayman National Bank after 25 years there. Word is he plans to summer in France while spending the cooler months in Cayman to spend time with his grandchildren. 
 
@@ -167,7 +184,7 @@ The Premier and Opposition Leader sent off their joint letter to the UK requesti
 
 #### McLaughlin, Eden, Chaum, BBC
 
-Premier **Alden McLaughin**, quoted by the *Cayman Compass*: ““I do believe, as do my advisors, that by this time next year we will begin to see a significant economic slowdown, not because of anything to do with Cayman but because of the global economy.”
+Premier **Alden McLaughin**, quoted by the *Cayman Compass*: “I do believe, as do my advisors, that by this time next year we will begin to see a significant economic slowdown, not because of anything to do with Cayman but because of the global economy.”
 
 MLA **Anthony Eden**, speaking to Attorney General Samuel Bulgin during the Legislative Assembly session, referring to lawyer Leonardo Raznovich, who has acted as pro bono counsel for an LGBT couple challenging Cayman’s marriage laws: “This individual has been wandering around all over the world; he went to look for the Pope, and different ones. I thought he was here at the pleasure of our people. I didn’t quite understand why in the first hearing he was sitting there with the petitioners, and I don’t know how we can sit down and continue to house someone that has inflicted so much pain on so many of our people in Cayman.”
 
@@ -175,13 +192,13 @@ MLA **Anthony Eden**, speaking to Attorney General Samuel Bulgin during the Legi
 
 The **BBC**, in a mea culpa for editing out audience reaction to a question posed to UK Prime Minister Boris Johnson on the importance of people in power telling the truth: “This clip … was shortened for timing reasons on Saturday's lunchtime bulletin, to edit out a repetitious phrase from Boris Johnson. However, in doing so we also edited out laughter from the audience. Although there was absolutely no intention to mislead, we accept this was a mistake on our part, as it didn't reflect the full reaction to Boris Johnson's answer.”
 
-A **senior partner** at a Cayman law firm, commenting after he failed to secure the winning bid for the grand prize at the Hedge Funds Care gala: “What the hell am I supposed to do with another Audi anyway?”
+**Tom Scott**, vice president at Eurobank, quipping after his auction bid fell short for the Audi at the Hedge Funds Care gala: “Thank God. I would have had to sell my house to pay for the car.”
 
 ***
 
 ***
 
-## News Links (template)
+## News Links (template -- to go in Daily Email)
 
 [MLAs push AG to deport gay lawyer](https://caymannewsservice.com/2019/11/mlas-push-ag-to-deport-gay-lawyer/)<br>
 **Cayman News Service, 21 Nov. 2019**<br>
@@ -218,4 +235,3 @@ An international banking company has confirmed it has "experienced a data hack" 
 [MML Capital take 50% stake in funds administrator DMS](https://www.thetimes.co.uk/article/mml-capital-take-50-stake-in-funds-administrator-dms-5dwrht9sd)<br>
 **The Sunday Times, 3 Nov. 2019**<br>
 MML Capital Partners, an international venture capital fund, has taken a 50% stake in DMS Governance, a funds administration company with substantial interests here.
-
