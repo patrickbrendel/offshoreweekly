@@ -51,7 +51,7 @@ The senior partner we spoke to said continuing discussions with foreign entities
 
 The other legal professional sees things differently. “Look, both the UK and Cayman recognise that public registers are not just the standard of the future, they are rapidly becoming the standard for the industry right now,” they said. “We have no choice but to evolve, and in my opinion, the consequences of adopting public registers -- if EU countries do as well -- will be minimal.”
 
-***
+<p align=”center”>***</p>
 
 ### Bermuda ready to ‘get digital’
 
@@ -85,7 +85,7 @@ In addition, Burt said, “On the open financial ecosystem front we have the sup
 
 He also mentioned ConsenSys, whose Codefi payments tool would “make it easy for governments and merchants to accept digital payments”.
 
-***
+<p align=”center”>***</p>
 
 ### 30,000 problems but a work permit ain’t one
 
@@ -109,7 +109,7 @@ The leader of a local recruitment firm said, “The entire economy seems to be t
 
 “There also is, I wouldn’t say nervousness, but obvious concern over knock-on effects from Brexit and a potential slowing-down in the American economy,” they said.
 
-***
+<p align=”center”>***</p>
 
 ### UCCI gets budget bailout
 
@@ -129,7 +129,7 @@ One partner at a major financial services firm told us that what UCCI really nee
 
 “It is in the best interests of the firms, and the country, for the private sector to step up and become the primary financial supporter of Cayman’s institutions of higher education,” the partner said.
 
-***
+<p align=”center”>***</p>
 
 ### Constitutional changes OK’d
 
@@ -145,7 +145,7 @@ McLean said McLaughlin agreed to postpone the eight-minister provision until aft
 
 The Premier and Opposition Leader sent off their joint letter to the UK requesting the passage of the Constitution Amendment Order. Hopefully, they used express mail service -- the next UK elections are scheduled for Dec. 12, and there’s no guarantee a new government will accept the changes negotiated with the current government.
 
-***
+<p align=”center”>***</p>
 
 ### Week in review
 
@@ -162,7 +162,7 @@ Internacional (Mercantil). The Cayman bank, which has about US$195 million in as
 
 + Caribbean Airlines, the national airline of Trinidad and Tabago, is reporting a year-on-year profit of 34 percent from January to September 2019. According to unaudited summary financial results released by the regional carrier, Caribbean Airlines posted earnings of about US$18 million, before interest and taxes.
 
-***
+<p align=”center”>***</p>
 
 ### Movers and Shakers
 
@@ -178,7 +178,7 @@ Internacional (Mercantil). The Cayman bank, which has about US$195 million in as
 
 **Chris Smith**, former managing partner of Coutts, celebrated his 75th birthday in grand style, inviting more than 200 guests to his home in Yacht Club for an evening of music and merry-making.
 
-***
+<p align=”center”>***</p>
 
 ### Quotes of the Week
 
@@ -194,9 +194,9 @@ The **BBC**, in a mea culpa for editing out audience reaction to a question pose
 
 **Tom Scott**, vice president at Eurobank, quipping after his auction bid fell short for the Audi at the Hedge Funds Care gala: “Thank God. I would have had to sell my house to pay for the car.”
 
-***
+<p align=”center”>***</p>
 
-***
+<p align=”center”>***</p>
 
 ## News Links (template -- to go in Daily Email)
 
@@ -235,3 +235,4 @@ An international banking company has confirmed it has "experienced a data hack" 
 [MML Capital take 50% stake in funds administrator DMS](https://www.thetimes.co.uk/article/mml-capital-take-50-stake-in-funds-administrator-dms-5dwrht9sd)<br>
 **The Sunday Times, 3 Nov. 2019**<br>
 MML Capital Partners, an international venture capital fund, has taken a 50% stake in DMS Governance, a funds administration company with substantial interests here.
+
