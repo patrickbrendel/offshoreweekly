@@ -1,6 +1,4 @@
-<p align="center">***</p>
-
-## News Links (template -- to go in Daily Email)
+# Daily Newslinks, 28 Nov. 2019 (JUST A DEMO)
 
 [MLAs push AG to deport gay lawyer](https://caymannewsservice.com/2019/11/mlas-push-ag-to-deport-gay-lawyer/)<br>
 **Cayman News Service, 21 Nov. 2019**<br>
