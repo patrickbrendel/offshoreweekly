@@ -1,5 +1,3 @@
-## Vol 0, Issue 0 (JUST A DEMO)
-
 # Vol 0, Issue 0 (JUST A DEMO)
 
 ### Beneficial ownership: From ‘no way’ to ‘OK’
