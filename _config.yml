@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Offshore Weekly
-description: Vol 0, Issue 0 (JUST A DEMO)
+description: Vol 0, Issue 0 (JUST A DEMO) || <a href="http://www.offshoreweekly.com/182b6cb552e016337805988bc1ee0f6aefa1f7a0/index.html">WEEKLY NEWSLETTER EXAMPLE</a> || <a href="http://www.offshoreweekly.com/182b6cb552e016337805988bc1ee0f6aefa1f7a0/newslinks.html">DAILY NEWSLINKS EXAMPLE</a>
 plugins: 
   - jekyll-seo-tag
   - jekyll-sitemap
