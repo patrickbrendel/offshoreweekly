@@ -139,7 +139,7 @@ Premier Alden McLaughlin and Opposition Leader Arden McLean have agreed on chang
 
 Last week, the premier announced the UK was amenable to including a mandatory requirement for consultation on legislation or Orders in Council that would directly impact the Cayman Islands; as well as removing reserve powers from the governor to write legislation, disallow legislation and write standing orders for the Legislative Assembly.
 
-McLean wasn’t OK with every proposal, however. He balked at the governor’s continuing ability to address the Legislative Assembly, and -- perhaps most importantly -- the possible addition of an eight minister to Cayman’s government. McLean thinks having eight ministers in a 19-member assembly would make it that much harder to gather a two-thirds majority needed to depose a premier.
+McLean wasn’t OK with every proposal, however. He balked at the governor’s continuing ability to address the Legislative Assembly, and -- perhaps most importantly -- the possible addition of an eighth minister to Cayman’s government. McLean thinks having eight ministers in a 19-member assembly would make it that much harder to gather a two-thirds majority needed to depose a premier.
 
 (For the record, prior to 2013, the Legislative Assembly had 15 elected members, with seven being ministers. From 2013-2017, there were 18 elected members, with seven ministers.)
 
