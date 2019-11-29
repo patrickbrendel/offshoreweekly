@@ -14,7 +14,7 @@ However, a senior partner in a small Cayman law firm said that Cayman should fig
 
 **Pressure and positioning**
 
-Back in May 2016, the government’s line of the sand could hardly be drawn any more clearly. Premier Alden McLaughlin announced that Cayman would not participate in a beneficial ownership standard unless it was adopted by the United States.
+Back in May 2016, the government’s line in the sand could hardly be drawn any more clearly. Premier Alden McLaughlin announced that Cayman would not participate in a beneficial ownership standard unless it was adopted by the United States.
 
 Then-Minister for Financial Services Wayne Panton (a former partner at Walkers) sent a letter to then-UK Chancellor of the Exchequer George Osborne, stating that Cayman would participate only after “this standard is agreed and adopted by all Overseas Territories, Crown Dependencies, G-20 and OECD member states”.
 
